@@ -1,0 +1,178 @@
+```
+SOURCE: WHO Burns Management Protocol
+CATEGORY: Trauma — Thermal Injury
+AUTHORITY: World Health Organization Emergency Surgical Care
+
+============================================================
+BURNS ASSESSMENT AND MANAGEMENT
+============================================================
+
+BURN DEPTH CLASSIFICATION:
+Superficial (First Degree):
+  Appearance: Red, dry, no blisters. Epidermis only.
+  Example: Sunburn, brief flash exposure.
+  Pain: Painful.
+  Healing: 3-5 days, no scarring.
+  Triage: MINOR unless large surface area.
+
+Partial Thickness (Second Degree):
+  Superficial Partial Thickness:
+    Appearance: Red, moist, blistered. Epidermis + superficial dermis.
+    Pain: Very painful — nerve endings intact.
+    Healing: 7-21 days, minimal scarring if not infected.
+  Deep Partial Thickness:
+    Appearance: White/yellow/pink, moist or dry, blisters.
+    Pain: Reduced sensitivity — deeper nerve damage.
+    Healing: > 21 days, significant scarring, often requires grafting.
+
+Full Thickness (Third Degree):
+  Appearance: White, brown, black, or charred. Leathery texture.
+  Pain: PAINLESS — nerve endings destroyed.
+  Involvement: All skin layers, may include subcutaneous tissue.
+  Healing: Cannot heal without surgical grafting.
+  Triage: Always IMMEDIATE if > small area.
+
+Fourth Degree:
+  Involvement: Burns through to muscle, bone, tendon.
+  Appearance: Charred, deeply necrotic.
+  Triage: IMMEDIATE — major operative intervention required.
+
+============================================================
+RULE OF NINES — BODY SURFACE AREA (TBSA) ESTIMATION
+============================================================
+
+ADULT (Rule of Nines):
+  Head and Neck:            9%
+  Chest (anterior trunk):   9%
+  Abdomen (anterior trunk): 9%
+  Upper Back:               9%
+  Lower Back:               9%
+  Right Arm (entire):       9%
+  Left Arm (entire):        9%
+  Right Thigh:              9%
+  Right Lower Leg + Foot:   9%
+  Left Thigh:               9%
+  Left Lower Leg + Foot:    9%
+  Genitalia/Perineum:       1%
+  TOTAL:                    100%
+
+PEDIATRIC ADJUSTMENTS (Lund and Browder — more accurate for children):
+  Head is proportionally larger in children:
+  Infant head: 18% (vs adult 9%)
+  Child head decreases 1% per year of age until adult proportion reached
+  Use Lund-Browder chart if available for children under 15.
+
+PALM METHOD (Quick estimation):
+  Patient's palm (fingers closed) = approximately 1% TBSA.
+  Useful for irregular or scattered burns.
+
+============================================================
+TRIAGE THRESHOLDS FOR BURNS
+============================================================
+
+IMMEDIATE (Red) — Triage ANY of the following:
+  Adults:
+    Partial thickness burns > 20% TBSA
+    Full thickness burns > 10% TBSA
+    Any burn involving airway/inhalation injury
+    Burns of face, hands, feet, genitalia, perineum, major joints
+    Circumferential burns of limb or chest
+    Chemical burns
+    Electrical burns (high voltage)
+    Burns + other trauma (fractures, hemorrhage)
+    Burns in elderly (> 60 years): lower thresholds apply
+
+  Children:
+    Partial thickness burns > 10% TBSA
+    Any full thickness burn
+    Any burn with inhalation injury
+
+DELAYED (Yellow):
+  Adults: Partial thickness 10-20% TBSA, no inhalation
+  Children: Partial thickness 5-10% TBSA, no inhalation
+
+MINOR (Green):
+  Adults: Partial thickness < 10% TBSA, no special areas, no inhalation
+  Children: Superficial < 5% TBSA, no special areas
+
+============================================================
+INHALATION INJURY — CRITICAL RECOGNITION
+============================================================
+
+SIGNS OF INHALATION INJURY (Any one = IMMEDIATE):
+  Facial burns or singeing of facial hair/eyebrows
+  Singed nasal hairs
+  Carbonaceous (black/sooty) sputum
+  Hoarse voice or stridor
+  Oropharyngeal erythema (redness in mouth/throat)
+  History of burn in enclosed space
+  Decreased level of consciousness in burn patient
+
+WHY INHALATION INJURY IS CRITICAL:
+  Airway edema progresses rapidly — can close airway within 30-60 minutes
+  SpO2 may appear falsely normal with carbon monoxide poisoning
+  Early intubation is far safer than emergency airway after edema sets in
+
+CARBON MONOXIDE POISONING:
+  Cause: Incomplete combustion in enclosed spaces
+  SpO2: FALSELY NORMAL (carboxyhemoglobin reads as oxyhemoglobin)
+  Symptoms: Headache, confusion, cherry-red skin (late sign), unconsciousness
+  Treatment: 100% high-flow O2 immediately — even if SpO2 appears normal
+  Any enclosed space fire exposure = presumed CO poisoning until proven otherwise
+
+============================================================
+IMMEDIATE BURNS MANAGEMENT
+============================================================
+
+AIRWAY (Priority 1 if inhalation suspected):
+  High-flow O2 via non-rebreather mask (15 L/min)
+  If hoarse voice, stridor, or decreasing consciousness:
+    Prepare for definitive airway (intubation if trained personnel available)
+    Do not delay — airway window closes rapidly
+
+STOP THE BURNING PROCESS:
+  Remove all clothing and jewelry from affected area
+  Irrigate with cool (not cold) running water for 20 minutes
+  If < 3 hours since burn and clean water available
+  Do NOT use ice — causes vasoconstriction and worsens injury
+  Do NOT apply toothpaste, butter, or home remedies
+  Cover with clean non-fluffy dressing
+
+FLUID RESUSCITATION — PARKLAND FORMULA:
+  Total fluid in first 24 hours = 4 mL × body weight (kg) × %TBSA burned
+  Use Lactated Ringer's (Hartmann's) solution, or normal saline if unavailable.
+  Give HALF the total in first 8 hours from TIME OF BURN (not time of arrival)
+  Give remaining HALF in next 16 hours.
+
+  Example: 70 kg adult, 25% TBSA burn:
+  Total = 4 × 70 × 25 = 7,000 mL in 24 hours
+  First 8 hours: 3,500 mL (= 437 mL/hour)
+  Next 16 hours: 3,500 mL (= 219 mL/hour)
+  Titrate to urine output: target 0.5-1.0 mL/kg/hour in adults
+  Pediatric target: 1.0 mL/kg/hour
+
+ESCHAROTOMY (if circumferential burn):
+  Circumferential full-thickness burns of limbs or chest restrict circulation
+  Signs: Absent distal pulse, increasing compartment pressure, chest unable to expand
+  Intervention: Longitudinal incisions through eschar to restore perfusion
+  Requires trained surgical personnel
+
+PAIN MANAGEMENT:
+  Partial thickness burns are extremely painful
+  IV morphine 0.1 mg/kg titrated (check opioid allergy first)
+  Ketamine 0.3 mg/kg IV sub-dissociative dose (preserves airway)
+  Wound cooling with water also provides analgesia
+
+WOUND CARE:
+  Do NOT debride blisters in field — protective covering
+  Clean with gentle irrigation, saline preferred
+  Cover with non-adherent dressing
+  Bacitracin or silver sulfadiazine if available
+  Elevate burned extremities if possible
+
+HYPOTHERMIA PREVENTION:
+  Burns destroy skin's thermoregulation ability
+  Cover patient with clean sheets and warming blankets
+  Warm the environment if possible — hypothermia worsens coagulopathy
+  Warm IV fluids if available
+```

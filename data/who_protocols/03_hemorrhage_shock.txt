@@ -1,0 +1,159 @@
+```
+SOURCE: WHO Hemorrhage Control and Shock Management
+CATEGORY: Trauma — Hemorrhage and Circulatory Failure
+AUTHORITY: World Health Organization Surgical Care at District Hospital
+
+============================================================
+HEMORRHAGE CLASSIFICATION AND RECOGNITION
+============================================================
+
+CLASS I HEMORRHAGE (up to 15% blood volume loss — ~750 mL):
+  Heart Rate:    < 100 bpm
+  Blood Pressure: Normal
+  Capillary Refill: Normal (< 2 seconds)
+  Consciousness: Alert, normal
+  Urine Output:  Normal (> 30 mL/hour)
+  Triage:        MINOR or DELAYED (monitor closely)
+
+CLASS II HEMORRHAGE (15-30% blood volume — 750-1500 mL):
+  Heart Rate:    100-120 bpm
+  Blood Pressure: Systolic may be maintained (compensated)
+  Capillary Refill: 2-3 seconds
+  Consciousness: Anxious, confused
+  Urine Output:  20-30 mL/hour
+  Triage:        IMMEDIATE — early aggressive resuscitation
+
+CLASS III HEMORRHAGE (30-40% blood volume — 1500-2000 mL):
+  Heart Rate:    > 120 bpm
+  Blood Pressure: Systolic < 90 mmHg
+  Capillary Refill: > 3 seconds
+  Consciousness: Confused, lethargic
+  Urine Output:  5-15 mL/hour
+  Triage:        IMMEDIATE — life-threatening
+
+CLASS IV HEMORRHAGE (> 40% blood volume — > 2000 mL):
+  Heart Rate:    > 140 bpm
+  Blood Pressure: Very low or undetectable
+  Capillary Refill: > 3 seconds (or absent)
+  Consciousness: Unconscious or minimally responsive
+  Urine Output:  Minimal or absent
+  Triage:        IMMEDIATE — imminent death without intervention
+
+IMPORTANT — COMPENSATED SHOCK WARNING:
+  Young healthy adults can maintain NORMAL blood pressure 
+  until 30-40% of blood volume is lost.
+  A normal BP does NOT rule out significant hemorrhage.
+  Tachycardia (HR > 120) is often the FIRST sign of significant blood loss.
+  Treat tachycardia + mechanism of injury as hemorrhagic shock until proven otherwise.
+
+============================================================
+EXTERNAL HEMORRHAGE CONTROL
+============================================================
+
+PRIORITY ORDER OF HEMORRHAGE CONTROL:
+  1. Direct pressure (first always)
+  2. Wound packing (for deep wounds where direct pressure insufficient)
+  3. Tourniquet (for extremity hemorrhage uncontrolled by pressure/packing)
+  4. Junctional tourniquet (groin, axilla, neck — requires special device)
+  5. Hemostatic dressings (QuikClot, Combat Gauze)
+
+DIRECT PRESSURE:
+  Apply firm continuous pressure with gloved hands or dressing
+  Do NOT remove dressing to inspect — add more dressings on top
+  Maintain pressure for minimum 10 minutes continuously
+  Pressure must be firm — common mistake is insufficient pressure
+
+TOURNIQUET APPLICATION:
+  Indications: Extremity bleeding not controlled by direct pressure
+               Amputation or near-amputation
+               Life-threatening extremity hemorrhage
+  Application: Apply 5-7 cm (2-3 inches) proximal to wound
+               Tighten until bleeding stops and distal pulse absent
+               Mark time of application (T=time) on patient/tourniquet
+               Do NOT remove in field — removal can cause rebound hemorrhage and death
+               Note: Tourniquet causes significant pain — reassure patient
+
+WOUND PACKING:
+  For junctional wounds (groin, axilla, neck) and deep wounds
+  Pack tightly with hemostatic gauze or clean material
+  Apply firm direct pressure over packed wound
+  Do not leave packing loose — tight packing is essential for hemostasis
+
+TRANEXAMIC ACID (TXA) — CRITICAL TIME-SENSITIVE INTERVENTION:
+  Indication: Significant hemorrhage or hemorrhagic shock
+  Mechanism: Antifibrinolytic — prevents clot breakdown
+  Dosing: 1 g IV over 10 minutes, then 1 g IV over 8 hours
+  CRITICAL TIME LIMIT: Must be given within 3 hours of injury onset
+  Evidence: CRASH-2 trial showed 1.5% absolute mortality reduction
+  If > 3 hours from injury: TXA may increase mortality — do NOT give
+
+INTERNAL HEMORRHAGE:
+  Suspect in: Abdominal trauma, pelvic fracture, long bone fractures,
+              hemothorax, thoracic trauma
+  Signs: Shock without visible external bleeding, abdominal distension,
+         pelvic instability, significant long bone deformity
+  Field management: Pelvic binder for pelvic fracture, traction splint for
+                    femur fracture, permissive hypotension, urgent evacuation
+  Target systolic BP in penetrating trauma (permissive hypotension): 80-90 mmHg
+  Target systolic BP in traumatic brain injury: > 110 mmHg (avoid hypotension)
+
+============================================================
+SHOCK MANAGEMENT
+============================================================
+
+HEMORRHAGIC SHOCK — FIELD MANAGEMENT:
+  Position: Lay flat, legs elevated if no spinal/pelvic injury (improves venous return)
+  Warmth: Prevent hypothermia (worsens coagulopathy)
+  O2: High-flow O2 via non-rebreather mask
+  IV Access: Two large-bore peripheral IVs (16G or larger)
+  Fluids: Balanced crystalloid (Hartmann's/LR) or saline
+  Target: Radial pulse present, systolic > 90 mmHg (or 80 if penetrating)
+  Blood Products: If available (O-negative packed red cells > crystalloid)
+  Reassess: Frequently — deterioration can be rapid
+
+FLUID RESUSCITATION CONTROVERSY:
+  Massive crystalloid resuscitation can worsen coagulopathy (dilutional)
+  In penetrating trauma: permissive hypotension until surgical bleeding control
+  In blunt trauma with TBI: maintain higher BP
+  Principle: Stop the bleeding first, then replace volume
+  Use minimum fluid to maintain radial pulse — over-resuscitation harmful
+
+TENSION PNEUMOTHORAX — MUST RECOGNIZE:
+  Life-threatening emergency — kills in minutes without intervention
+  Signs: Respiratory distress, absent breath sounds on one side,
+         tracheal deviation (away from affected side — late sign),
+         distended neck veins (if no hypovolemia), hypotension, cyanosis
+  Treatment: Needle decompression — 2nd intercostal space, midclavicular line
+             (or 4th/5th ICS, anterior axillary line — safer approach)
+             14G or 16G needle, hear rush of air = correct
+             Follow with chest drain if trained
+  Triage: IMMEDIATE — do NOT delay for imaging
+
+CARDIOGENIC SHOCK:
+  Signs: Shock + distended neck veins + clear lungs + no response to fluids
+  Consider in: Elderly patients, known cardiac history, blunt chest trauma
+  Do NOT give aggressive fluids — worsens pulmonary edema
+  Position: Semi-recumbent (30-45 degrees)
+
+DISTRIBUTIVE SHOCK (Septic / Anaphylactic):
+  Septic: Fever or hypothermia + source of infection + shock
+    Treatment: Fluids, antibiotics, vasopressors if available
+  Anaphylactic: Allergic exposure + hives/angioedema + shock
+    Treatment: Epinephrine 0.3-0.5 mg IM immediately — lateral thigh
+    Then: Diphenhydramine, salbutamol for bronchospasm, fluids
+
+OBSTRUCTIVE SHOCK (Tension pneumothorax, cardiac tamponade):
+  Tension pneumothorax: needle decompression (see above)
+  Cardiac tamponade: Beck's triad — hypotension, muffled heart sounds, JVD
+    Treatment: Pericardiocentesis (requires trained personnel)
+    Emergency: position upright, urgent evacuation
+
+SHOCK DECISION TREE:
+  Patient in shock (low BP, tachycardia, altered mental status)?
+  YES → External bleeding? → YES → Stop bleeding (see above)
+                          → NO  → Internal bleeding suspected? → YES → urgent evacuation
+                                                                → NO  → Consider tension PTX,
+                                                                         tamponade, sepsis,
+                                                                         anaphylaxis
+  ALL SHOCK = IMMEDIATE triage
+```

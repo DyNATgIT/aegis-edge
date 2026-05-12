@@ -1,0 +1,24 @@
+﻿# ── Model weights (NEVER commit — too large) ──
+models/
+*.gguf
+*.bin
+*.safetensors
+
+# ── Python ──
+__pycache__/
+*.pyc
+.env
+aegis-env/
+venv/
+.venv/
+
+# ── Local data ──
+data/temp/
+*.db
+*.sqlite
+vectordb/
+
+# ── OS ──
+.DS_Store
+Thumbs.db
+desktop.ini

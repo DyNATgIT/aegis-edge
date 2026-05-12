@@ -1,0 +1,78 @@
+```
+SOURCE: WHO Obstetric Emergency Management
+CATEGORY: Obstetric and Maternal Emergencies
+AUTHORITY: World Health Organization Managing Complications in Pregnancy and Childbirth
+
+============================================================
+OBSTETRIC TRIAGE PRINCIPLES
+============================================================
+
+ANY PREGNANT WOMAN WITH THE FOLLOWING = IMMEDIATE:
+  Uncontrolled hemorrhage (antepartum or postpartum)
+  Seizures (eclampsia)
+  Unconsciousness or severely altered mental status
+  Severe respiratory distress
+  Shock (any cause)
+  Signs of placental abruption with fetal distress
+  Cord prolapse
+  Shoulder dystocia
+  Uterine rupture
+
+GESTATIONAL AGE ESTIMATION (if unknown):
+  Fundal height in cm ≈ gestational age in weeks (after 20 weeks)
+  Fundal height at umbilicus ≈ 20 weeks
+  Fundal height at xiphisternum ≈ 36 weeks
+  If > 20 weeks gestation: consider both maternal AND fetal status
+
+============================================================
+POSTPARTUM HEMORRHAGE — MOST COMMON OBSTETRIC EMERGENCY
+============================================================
+
+DEFINITION: Blood loss > 500 mL vaginal delivery, > 1000 mL caesarean
+
+RECOGNITION: Uterus boggy/soft (not contracted), heavy vaginal bleeding
+TRIAGE: IMMEDIATE
+
+CAUSES (4 T's):
+  TONE (uterine atony) — 80% of cases: Uterus fails to contract after delivery
+  TRAUMA: Lacerations, hematoma
+  TISSUE: Retained placenta or clots
+  THROMBIN: Coagulation disorder
+
+IMMEDIATE MANAGEMENT:
+  1. Bimanual uterine massage — compress uterus between hands
+  2. Oxytocin 10 IU IM immediately after delivery (prophylaxis)
+     Or 20-40 IU in 1L saline IV over 4 hours (treatment)
+  3. Large bore IV access × 2, urgent fluid resuscitation
+  4. Tranexamic acid 1g IV within 3 hours if hemorrhage > 500 mL
+  5. Urgent manual removal of retained placenta if suspected
+  6. If bleeding persists: uterine compression sutures, surgical intervention
+
+============================================================
+ECLAMPSIA — HYPERTENSIVE CRISIS IN PREGNANCY
+============================================================
+
+PREECLAMPSIA: BP > 140/90 + proteinuria after 20 weeks
+SEVERE PREECLAMPSIA: BP > 160/110 or end-organ damage
+ECLAMPSIA: Seizures in preeclamptic patient
+
+TRIAGE: ALL eclampsia = IMMEDIATE
+         Severe preeclampsia = IMMEDIATE
+
+ECLAMPSIA MANAGEMENT:
+  1. Seizure: Position left lateral, protect airway, O2
+  2. Magnesium sulfate: 4-6 g IV over 15-20 minutes (loading dose)
+     Then: 1-2 g/hour IV maintenance
+     CRITICAL: Monitor for toxicity — absent patellar reflexes,
+               respiratory depression, urine output < 25 mL/hour
+     Antidote: Calcium gluconate 1g IV over 10 minutes
+  3. BP control: Hydralazine 5-10 mg IV q20min OR Labetalol 20mg IV
+     Target: 140-155/90-105 (avoid over-lowering — fetal compromise)
+  4. Delivery: Definitive treatment — organize urgent delivery
+
+MAGNESIUM TOXICITY SIGNS:
+  Loss of patellar reflex (earliest sign)
+  Respiratory depression (serious)
+  Cardiac arrest (serum Mg > 15 mEq/L)
+  Treatment: Stop MgSO4, give calcium gluconate 1g IV
+```

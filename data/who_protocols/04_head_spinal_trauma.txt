@@ -1,0 +1,121 @@
+```
+SOURCE: WHO Head Injury and Spinal Trauma Management
+CATEGORY: Trauma — Neurological
+AUTHORITY: World Health Organization Emergency Neurosurgery
+
+============================================================
+TRAUMATIC BRAIN INJURY (TBI) CLASSIFICATION
+============================================================
+
+MILD TBI (GCS 13-15):
+  Patient: Alert, oriented, may have brief LOC or amnesia
+  Symptoms: Headache, nausea, dizziness, confusion
+  Danger signs requiring IMMEDIATE: Deteriorating consciousness, 
+    severe headache, repeated vomiting, seizure, unequal pupils,
+    worsening neurological deficits
+  Triage: DELAYED unless danger signs present → then IMMEDIATE
+
+MODERATE TBI (GCS 9-12):
+  Patient: Confused, agitated, may have focal neurological deficits
+  Triage: IMMEDIATE — needs urgent CT and neurosurgical evaluation
+
+SEVERE TBI (GCS ≤ 8):
+  Patient: Unable to follow commands, posturing, or unresponsive
+  Triage: IMMEDIATE — highest priority neurological emergency
+  Field management: Airway protection, prevent secondary injury
+
+SECONDARY BRAIN INJURY — PREVENTION IS CRITICAL:
+  Any episode of hypoxia (SpO2 < 90%) doubles mortality in TBI
+  Any episode of hypotension (SBP < 90 mmHg) doubles mortality
+  Maintain: SpO2 > 95% and SBP > 110 mmHg in all TBI patients
+  These thresholds are HIGHER than for other trauma patients
+
+HERNIATION — IMPENDING BRAIN DEATH:
+  Signs: Cushing's triad (hypertension + bradycardia + irregular breathing)
+         Fixed dilated pupils (unilateral = uncal herniation, bilateral = late/severe)
+         Posturing (Decerebrate = bilateral arm/leg extension)
+  Intervention: Head elevated 30 degrees, hyperventilate to PCO2 35
+                Mannitol 1g/kg IV or hypertonic saline if available
+  Triage: IMMEDIATE — minutes matter
+
+============================================================
+PUPIL ASSESSMENT
+============================================================
+
+NORMAL: Both pupils equal, round, reactive to light (PERRL)
+  Size 2-4 mm in normal light
+
+ABNORMAL FINDINGS:
+  Unequal pupils (anisocoria) → Unilateral brain herniation → IMMEDIATE
+    (dilated pupil = ipsilateral uncal herniation from mass lesion)
+  Fixed dilated pupils (bilateral) → Bilateral herniation or death → IMMEDIATE/EXPECTANT
+  Pinpoint pupils (miosis) → Opioid overdose or pontine hemorrhage
+  Non-reactive pupils → Severe neurological injury
+
+EXAMINATION NOTE: Perform pupil check with light source.
+  Check in dim light. Note size in mm, equality, and reaction to light.
+  Repeat every 5 minutes in any unconscious patient.
+
+============================================================
+HEAD INJURY FIELD MANAGEMENT
+============================================================
+
+AIRWAY AND BREATHING — HIGHEST PRIORITY:
+  GCS ≤ 8: Secure definitive airway (intubation)
+  Position: Head of bed elevated 30-45 degrees if no spinal injury
+  O2: Maintain SpO2 > 95% — even brief hypoxia worsens outcome
+  Avoid: Hyperventilation (unless herniation signs) — causes cerebral vasoconstriction
+
+CIRCULATION:
+  Maintain SBP > 110 mmHg (higher than other trauma)
+  Avoid over-resuscitation — maintain euvolemia
+  Treat pain — uncontrolled pain raises intracranial pressure
+
+SEIZURE MANAGEMENT:
+  Seize after head injury → IMMEDIATE
+  First seizure after TBI: Observe and protect airway
+  Prolonged seizure (> 5 minutes) or status epilepticus:
+    Diazepam 5-10 mg IV/IM/PR OR Midazolam 10 mg IM/IN
+  Position: Left lateral recovery position after seizure
+
+WHAT NOT TO DO IN TBI:
+  Do NOT give hypotonic fluids (worsens cerebral edema)
+  Do NOT allow hypoxia (most preventable cause of secondary injury)
+  Do NOT allow hypotension (target SBP > 110, not just > 90)
+  Do NOT give prophylactic mannitol without herniation signs
+
+============================================================
+SPINAL INJURY MANAGEMENT
+============================================================
+
+SUSPECT SPINAL INJURY IN:
+  High-energy mechanism (MVA, fall > 1 meter, diving)
+  Unconscious trauma patient (cannot report symptoms)
+  Neck or back pain after trauma
+  Neurological symptoms: numbness, tingling, weakness in extremities
+  Tenderness on palpation of spine
+  Midline spinal tenderness on palpation
+
+SPINAL PRECAUTIONS — FIELD:
+  Manual in-line stabilization (MILS): Hold head manually in neutral position
+  Cervical collar: Apply if available (does not eliminate need for MILS)
+  Logroll for repositioning: maintain spine alignment with minimum 3 people
+  Spinal board: Use for transport if available
+
+CRITICAL NOTE — CLEARING THE SPINE:
+  Do NOT clear cervical spine in field if:
+    Altered mental status (cannot reliably report pain)
+    Distracting painful injuries (other fractures, burns)
+    Intoxication
+    Midline cervical tenderness
+  Maintain precautions until proper imaging available
+
+NEUROGENIC SHOCK:
+  Cause: High cervical spinal injury disrupts sympathetic nervous system
+  Signs: Hypotension + bradycardia (NOT tachycardia like hemorrhagic shock)
+         Warm, dry, flushed skin (vasodilation) — NOT cold clammy
+         Paradoxical bradycardia with hypotension
+  Treatment: Careful fluid resuscitation, vasopressors if available
+             Atropine for symptomatic bradycardia
+  Differentiate from hemorrhagic shock: in hemorrhagic shock HR is elevated
+```

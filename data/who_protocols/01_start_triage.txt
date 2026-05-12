@@ -1,0 +1,170 @@
+```
+SOURCE: WHO START Triage Protocol — Simple Triage and Rapid Treatment
+CATEGORY: Triage Protocol
+AUTHORITY: World Health Organization / SALT Mass Casualty Triage
+
+============================================================
+WHO START TRIAGE PROTOCOL — COMPLETE REFERENCE
+============================================================
+
+OVERVIEW:
+START triage (Simple Triage and Rapid Treatment) is the WHO-endorsed 
+system for sorting mass casualty patients. Each patient is assessed 
+in under 60 seconds. Goal: do the greatest good for the greatest 
+number with available resources.
+
+TRIAGE CATEGORIES:
+IMMEDIATE (Red Tag):
+  Life-threatening injuries that are survivable with immediate intervention.
+  Must be treated within minutes. Highest priority for evacuation.
+  Examples: airway obstruction, tension pneumothorax, uncontrolled hemorrhage,
+  SpO2 < 90%, respiratory rate > 30 or < 10, cannot follow commands.
+
+DELAYED (Yellow Tag):
+  Serious injuries that are stable for 1-2 hours without intervention.
+  Second priority. Vital signs: breathing 10-30/min, radial pulse present,
+  capillary refill < 2 seconds, CAN follow simple commands.
+  Examples: closed fractures, moderate burns < 20% TBSA, stable lacerations.
+
+MINOR (Green Tag):
+  Walking wounded. Non-life-threatening. Can self-rescue and wait.
+  Patient must be AMBULATORY (can walk to treatment area).
+  Examples: minor lacerations, sprains, minor burns < 10% TBSA, contusions.
+
+EXPECTANT (Black Tag):
+  Unsurvivable given available resources. No airway after repositioning.
+  Comfort measures only. Do NOT divert resources from survivable patients.
+  Note: EXPECTANT is resource-dependent. Reassess if resources change.
+
+============================================================
+THE FIVE START STEPS — APPLY IN ORDER
+============================================================
+
+STEP 0 — WALKING WOUNDED SORT (Before individual assessment):
+  Announce loudly: "If you can walk, move to [designated area]!"
+  All who walk = MINOR (Green). Direct them to treatment area.
+  Remaining non-ambulatory patients: proceed to Step 1.
+
+STEP 1 — BREATHING ASSESSMENT:
+  Is the patient breathing?
+  NO → Reposition airway (head-tilt chin-lift, jaw thrust if trauma suspected)
+       Still not breathing → EXPECTANT (Black)
+       Now breathing after repositioning → IMMEDIATE (Red)
+  YES → Proceed to Step 2
+
+STEP 2 — RESPIRATORY RATE:
+  Count respirations for 15 seconds, multiply by 4 (or 30s × 2).
+  < 10 breaths/min → IMMEDIATE (Red) — respiratory depression
+  > 30 breaths/min → IMMEDIATE (Red) — respiratory distress
+  10-30 breaths/min → Proceed to Step 3
+
+STEP 3 — PERFUSION (Radial Pulse OR Capillary Refill):
+  METHOD A — Radial Pulse:
+    No radial pulse palpable → IMMEDIATE (Red) — likely shock
+    Radial pulse present → Proceed to Step 4
+  METHOD B — Capillary Refill (if pulse check uncertain):
+    Press fingernail bed for 2 seconds, release
+    Refill > 2 seconds → IMMEDIATE (Red)
+    Refill ≤ 2 seconds → Proceed to Step 4
+
+STEP 4 — MENTAL STATUS:
+  Give simple command: "Squeeze my hand" or "Open your eyes"
+  Patient CANNOT follow command → IMMEDIATE (Red) — altered mental status
+  Patient CAN follow command → DELAYED (Yellow)
+
+============================================================
+CRITICAL VITAL SIGN THRESHOLDS
+============================================================
+
+RESPIRATORY RATE:
+  < 10 breaths/min  → IMMEDIATE — respiratory failure or depression
+  10-20 breaths/min → Normal adult range
+  20-30 breaths/min → Elevated, monitor closely
+  > 30 breaths/min  → IMMEDIATE — significant respiratory distress
+  Normal pediatric (child): 20-30 breaths/min
+  Normal infant: 30-40 breaths/min
+
+OXYGEN SATURATION (SpO2):
+  98-100% → Normal
+  94-97%  → Acceptable, monitor
+  90-93%  → Mild hypoxia — supplement oxygen
+  85-89%  → Significant hypoxia → IMMEDIATE — high flow O2 required
+  < 85%   → Critical hypoxia → IMMEDIATE — may need airway intervention
+  Note: Pulse oximetry unreliable in hypothermia, peripheral vasoconstriction,
+        nail polish, or carbon monoxide poisoning (falsely normal in CO poisoning)
+
+HEART RATE:
+  < 50 bpm  → Bradycardia — cardiac or vagal cause — assess urgently
+  50-100 bpm → Normal adult
+  100-120 bpm → Tachycardia — pain, anxiety, early shock, fever
+  > 120 bpm  → Significant tachycardia — hemorrhage or distributive shock
+  > 150 bpm  → Critical tachycardia — cardiac emergency possible
+  Pediatric normal HR: Infant 100-160, Toddler 90-150, Child 70-120
+
+BLOOD PRESSURE (if equipment available):
+  Systolic < 90 mmHg → Hypotension — hemorrhagic shock until proven otherwise → IMMEDIATE
+  Systolic < 70 mmHg → Severe shock — life-threatening
+  Note: Young healthy adults can maintain BP until 30-40% blood volume lost (compensated shock)
+        Maintain high suspicion with HR > 120 even with normal BP
+
+CAPILLARY REFILL TIME:
+  ≤ 2 seconds → Normal
+  > 2 seconds → Impaired peripheral perfusion → consider IMMEDIATE
+  Note: Unreliable in cold environments — warm patient first if possible
+
+TEMPERATURE:
+  < 32°C (89.6°F) → Severe hypothermia → IMMEDIATE
+  32-35°C         → Moderate hypothermia → IMMEDIATE — active rewarming
+  35-36.4°C       → Mild hypothermia — passive rewarming, monitor
+  36.5-37.5°C     → Normal
+  37.6-38.5°C     → Low-grade fever — monitor for infection
+  > 38.5°C        → Fever — assess for sepsis or heat illness
+  > 40°C          → High fever → IMMEDIATE — heat stroke or severe sepsis possible
+  > 41°C          → Critical — organ damage risk
+
+CONSCIOUSNESS / MENTAL STATUS (AVPU Scale):
+  A — Alert: Patient is awake and aware → responsive
+  V — Voice: Responds to voice stimulus only
+  P — Pain: Responds to pain stimulus only → IMMEDIATE
+  U — Unresponsive → IMMEDIATE
+
+GLASGOW COMA SCALE (GCS) — if time allows:
+  Eye Opening:    Spontaneous(4), Voice(3), Pain(2), None(1)
+  Verbal:         Oriented(5), Confused(4), Words(3), Sounds(2), None(1)
+  Motor:          Obeys(6), Localizes(5), Withdraws(4), Flexion(3), Extension(2), None(1)
+  Total: 15 = Normal, 13-14 = Mild TBI, 9-12 = Moderate TBI
+         8 or below = Severe TBI → IMMEDIATE — consider airway protection
+         3 = No response to any stimulus
+
+============================================================
+MASS CASUALTY PRINCIPLES
+============================================================
+
+RESOURCE ALLOCATION:
+  In mass casualty: do NOT spend resources on EXPECTANT patients
+  if IMMEDIATE patients remain undertreated.
+  One medic should not spend > 60s on initial triage assessment.
+  Reassess frequently — DELAYED can deteriorate to IMMEDIATE.
+
+DOCUMENTATION:
+  Tag every patient immediately after assessment.
+  Record: time of assessment, triage category, chief complaint,
+  vital signs if obtained, interventions performed.
+  Log digitally if Aegis-Edge available — creates permanent medical record.
+
+PEDIATRIC CONSIDERATIONS:
+  Children have higher physiologic reserve — can appear stable then crash.
+  Use JumpSTART for pediatric patients (modified START):
+    If child not breathing: give 5 rescue breaths before tagging EXPECTANT
+    Respiratory rate thresholds differ (see above)
+    Mental status: cannot walk AND abnormal breathing = IMMEDIATE
+
+REASSESSMENT INTERVALS:
+  IMMEDIATE: Reassess every 5 minutes or after each intervention
+  DELAYED: Reassess every 15-30 minutes
+  MINOR: Reassess every 60 minutes or if patient reports deterioration
+```
+<<<<<<< HEAD
+
+=======
+>>>>>>> 12983ba8 (Day 5: Audio pipeline — Whisper offline, multilingual phrases, voice triage loop)

@@ -1,0 +1,154 @@
+```
+SOURCE: WHO Pediatric Emergency Triage Assessment and Treatment (ETAT)
+CATEGORY: Pediatric Emergency Medicine
+AUTHORITY: World Health Organization Pocket Book of Hospital Care for Children
+
+============================================================
+PEDIATRIC VITAL SIGN NORMAL RANGES BY AGE
+============================================================
+
+HEART RATE (beats per minute):
+  Newborn (0-1 month):    100-160
+  Infant (1-12 months):   100-160
+  Toddler (1-2 years):    90-150
+  Preschool (3-5 years):  80-140
+  School age (6-12 years): 70-120
+  Adolescent (13-18):     60-100
+
+RESPIRATORY RATE (breaths per minute):
+  Newborn (0-1 month):    30-60
+  Infant (1-12 months):   25-50
+  Toddler (1-2 years):    20-40
+  Preschool (3-5 years):  20-30
+  School age (6-12 years): 15-25
+  Adolescent:             12-20
+
+SYSTOLIC BLOOD PRESSURE (mmHg) — Minimum acceptable:
+  Infant:                 > 60 (or palpable brachial pulse)
+  Toddler:               > 70
+  Child:                 > 70 + (2 × age in years)
+  Adolescent:             > 90
+
+WEIGHT ESTIMATION (if not available):
+  Broselow tape: Most accurate color-coded weight/dose guide
+  Formula: Weight (kg) = 2 × (age in years + 4) for children 1-10 years
+  Or: [Age in years + 4] × 2 = approximate weight in kg
+
+============================================================
+PEDIATRIC EMERGENCY RECOGNITION (TICLS Assessment)
+============================================================
+
+TONE: Is the child moving normally? Floppy? Stiff?
+  Abnormal tone = emergency until proven otherwise
+
+INTERACTIVENESS: How alert is the child?
+  Inconsolable crying, not engaging, or limp = emergency
+
+CONSOLABILITY: Can caregiver calm the child?
+  Cannot be consoled = emergency
+
+LOOK/GAZE: Does child track you? Have a vacant stare?
+  Glassy eyes, staring = emergency
+
+SPEECH/CRY: Normal cry? Weak? Silent?
+  Abnormal cry quality = emergency
+
+ANY ABNORMALITY IN TICLS = IMMEDIATE regardless of vital signs
+
+============================================================
+PEDIATRIC AIRWAY EMERGENCIES
+============================================================
+
+CROUP (laryngotracheobronchitis):
+  Age: 6 months - 3 years. Barking seal cough, stridor.
+  Mild: Barking cough, no stridor at rest → DELAYED
+  Moderate: Stridor at rest, mild retractions → IMMEDIATE
+  Severe: Stridor + severe retractions + cyanosis → IMMEDIATE
+  Treatment: Nebulized epinephrine 0.5 mL/kg of 1:1000, max 5 mL
+             Dexamethasone 0.6 mg/kg PO/IM (up to 10 mg)
+             Humidified O2, cool air
+
+FOREIGN BODY ASPIRATION:
+  Sudden choking in child, unilateral decreased breath sounds
+  Conscious: Back blows (< 1 year) or abdominal thrusts (> 1 year)
+  Unconscious: CPR with airway check each cycle
+  IMMEDIATE — can be rapidly fatal
+
+EPIGLOTTITIS (rare, but life-threatening):
+  Child sitting upright, drooling, high fever, severe sore throat
+  DO NOT examine throat — can precipitate complete obstruction
+  IMMEDIATE — keep child calm, supplemental O2, urgent airway management
+
+============================================================
+PEDIATRIC SEIZURES
+============================================================
+
+FEBRILE SEIZURE:
+  Age 6 months - 5 years, fever > 38°C, generalized tonic-clonic
+  Simple: < 15 minutes, self-limiting → DELAYED (monitor)
+  Complex: > 15 minutes, focal, or recurs within 24 hours → IMMEDIATE
+
+STATUS EPILEPTICUS (seizure > 5 minutes):
+  IMMEDIATE — risk of hypoxic brain injury
+  Airway: Position, O2, suction
+  First line: Diazepam 0.5 mg/kg PR (max 10 mg) OR Midazolam 0.2 mg/kg IM/IN (max 10 mg)
+  If no IV: Diazepam rectal solution or midazolam intranasal
+
+NEONATAL SEIZURES (< 1 month):
+  Always IMMEDIATE — high risk of underlying serious pathology
+  Consider: hypoglycemia, hypocalcemia, infection, birth asphyxia
+
+============================================================
+PEDIATRIC SHOCK RECOGNITION AND MANAGEMENT
+============================================================
+
+EARLY SHOCK RECOGNITION IN CHILDREN:
+  Children compensate better than adults — BP may remain normal in moderate shock
+  Early signs:
+    Tachycardia above normal for age
+    Prolonged capillary refill > 2 seconds
+    Cool extremities with central warmth (temperature gradient)
+    Mottled skin
+    Decreased urine output
+    Mild altered behavior (irritable, lethargic)
+  Late (decompensated) shock:
+    Hypotension = very late sign in children — impending arrest
+    Any hypotension in a child = IMMEDIATE EMERGENCY
+
+FLUID RESUSCITATION IN PEDIATRIC SHOCK:
+  Initial bolus: 10-20 mL/kg isotonic crystalloid (LR or 0.9% NS) over 5-20 minutes
+  Reassess after each bolus: HR, capillary refill, mental status, BP
+  Repeat bolus if still in shock, up to 40-60 mL/kg total
+  If no improvement after 40 mL/kg: consider inotropes, blood products
+
+PEDIATRIC BURN FLUID RESUSCITATION:
+  Modified Parkland: 3 mL × weight (kg) × %TBSA
+  (Lower than adult formula)
+  Half in first 8 hours from injury, half in next 16 hours
+  Plus maintenance fluids (add D5LR for children to prevent hypoglycemia)
+  Target urine output: 1 mL/kg/hour
+
+============================================================
+PEDIATRIC DRUG DOSING PRINCIPLES
+============================================================
+
+ALWAYS CALCULATE BY WEIGHT:
+  Never dose pediatric patients based on adult doses
+  Use Broselow tape or weight-based formulary
+
+KEY EMERGENCY DRUG DOSES:
+  Epinephrine (anaphylaxis): 0.01 mg/kg IM (max 0.5 mg) — 1:1000 concentration
+  Dextrose (hypoglycemia): 2-5 mL/kg of 10% dextrose IV (NOT 50% — causes vein damage)
+  Diazepam (seizure): 0.1-0.3 mg/kg IV or 0.5 mg/kg PR
+  Morphine: 0.05-0.1 mg/kg IV (max 2 mg per dose, use lower end in children)
+  Naloxone: 0.01 mg/kg IV/IM/IN (can give up to 0.1 mg/kg in severe cases)
+  Atropine: 0.02 mg/kg IV (minimum 0.1 mg, maximum 0.5 mg single dose)
+  Salbutamol (asthma): 0.15 mg/kg via nebulizer (min 2.5 mg)
+
+HYPOGLYCEMIA IN CHILDREN:
+  Always check glucose in unconscious child
+  Normal: > 3.5 mmol/L (63 mg/dL)
+  Treat if < 2.5 mmol/L (45 mg/dL) or symptomatic
+  Give 2-5 mL/kg of 10% dextrose IV
+  Reassess in 15 minutes
+```
