@@ -1,0 +1,1 @@
+{"base_model_name_or_path": "google/gemma-4-e4b-pt", "r": 8, "lora_alpha": 16, "target_modules": ["q_proj", "v_proj"], "task_type": "CAUSAL_LM", "trained_by": "Aayu and Keshav", "final_loss": 0.4123}
