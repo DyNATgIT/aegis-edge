@@ -1008,9 +1008,14 @@ def main():
             }
             return colours.get(val, "")
 
-        styled = log_df.style.applymap(
-            colour_category, subset=["category"]
-        )
+        # ── RECTIFIED LOG TABLE CODE ──────────────────────────────────
+        try:
+            # Try the new Pandas method (.map)
+            styled = log_df.style.map(colour_category, subset=["category"])
+        except AttributeError:
+            # Fallback for older Pandas versions (.applymap)
+            styled = log_df.style.applymap(colour_category, subset=["category"])
+
         st.dataframe(
             styled,
             use_container_width=True,
