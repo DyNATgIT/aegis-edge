@@ -1,110 +1,121 @@
 <p align="center">
 
-<svg width="100%" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="280" viewBox="0 0 1000 280" xmlns="http://www.w3.org/2000/svg">
 
+  <!-- Definitions -->
   <defs>
+    <!-- Dark Tech Background -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="50%" stop-color="#0d1b2a"/>
+      <stop offset="100%" stop-color="#1b263b"/>
+    </linearGradient>
 
-    <!-- Background -->
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#050816"/>
-      <stop offset="50%" stop-color="#0a1026"/>
-      <stop offset="100%" stop-color="#07131f"/>
+    <!-- Neon Blue Glass Gradient -->
+    <linearGradient id="glassGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="rgba(0, 194, 255, 0.25)"/>
+      <stop offset="100%" stop-color="rgba(0, 112, 243, 0.1)"/>
     </linearGradient>
 
     <!-- Neon Glow -->
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="18" result="coloredBlur"/>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
       <feMerge>
         <feMergeNode in="coloredBlur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
 
-    <!-- Glass -->
-    <linearGradient id="glass" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="rgba(255,255,255,0.18)"/>
-      <stop offset="100%" stop-color="rgba(255,255,255,0.04)"/>
-    </linearGradient>
-
-    <!-- Grid Pattern -->
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(0,255,255,0.08)" stroke-width="1"/>
-    </pattern>
-
+    <!-- Blur for orbs -->
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="20" />
+    </filter>
   </defs>
 
   <!-- Background -->
-  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1000" height="280" fill="url(#bgGradient)" />
 
-  <!-- Grid -->
-  <rect width="1200" height="320" fill="url(#grid)"/>
+  <!-- Animated Neon Orbs -->
+  <circle cx="150" cy="100" r="80" fill="#00c2ff" filter="url(#blur)" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;0.8;0.5" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="850" cy="200" r="100" fill="#0070f3" filter="url(#blur)" opacity="0.4">
+    <animate attributeName="opacity" values="0.4;0.7;0.4" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="500" cy="50" r="60" fill="#00f2fe" filter="url(#blur)" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.6;0.3" dur="5s" repeatCount="indefinite"/>
+  </circle>
 
-  <!-- Neon Orbs -->
-  <circle cx="250" cy="90" r="120" fill="#00e5ff" opacity="0.22" filter="url(#glow)"/>
-  <circle cx="950" cy="220" r="140" fill="#0066ff" opacity="0.22" filter="url(#glow)"/>
+  <!-- Grid Pattern (Tech Vibe) -->
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(0, 194, 255, 0.1)" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="280" fill="url(#grid)" />
 
-  <!-- Decorative Lines -->
-  <line x1="140" y1="70" x2="320" y2="70" stroke="#00f0ff" stroke-width="2" opacity="0.7"/>
-  <line x1="880" y1="250" x2="1060" y2="250" stroke="#00f0ff" stroke-width="2" opacity="0.7"/>
-
-  <!-- Glass Panel -->
-  <rect x="140" y="60"
-        width="920"
-        height="200"
-        rx="28"
-        fill="url(#glass)"
-        stroke="rgba(0,255,255,0.35)"
-        stroke-width="1.5"/>
-
-  <!-- Neon Border Glow -->
-  <rect x="140" y="60"
-        width="920"
-        height="200"
-        rx="28"
-        fill="none"
-        stroke="#00e5ff"
+  <!-- Glass Panel with Neon Border -->
+  <rect x="120" y="70" rx="20" ry="20" width="760" height="150"
+        fill="url(#glassGradient)"
+        stroke="#00c2ff"
         stroke-width="2"
-        opacity="0.7"
-        filter="url(#glow)"/>
+        filter="url(#glow)"
+        opacity="0.95"/>
 
-  <!-- Small Tech Dots -->
-  <circle cx="190" cy="100" r="4" fill="#00f0ff"/>
-  <circle cx="205" cy="100" r="4" fill="#00f0ff" opacity="0.7"/>
-  <circle cx="220" cy="100" r="4" fill="#00f0ff" opacity="0.4"/>
+  <!-- Inner Glow Line -->
+  <rect x="125" y="75" rx="17" ry="17" width="750" height="140"
+        fill="none"
+        stroke="rgba(0, 242, 254, 0.3)"
+        stroke-width="1"/>
 
-  <!-- Main Title -->
-  <text x="600"
-        y="145"
+  <!-- AEGIS EDGE Title -->
+  <text x="500" y="135"
         text-anchor="middle"
         font-size="68"
-        font-family="Segoe UI, Orbitron, sans-serif"
-        font-weight="700"
-        letter-spacing="6"
-        fill="#dffcff"
+        font-family="'Arial Black', sans-serif"
+        fill="#00f2fe"
+        font-weight="900"
+        letter-spacing="8"
         filter="url(#glow)">
     AEGIS EDGE
   </text>
 
+  <!-- Tech Accent Line -->
+  <line x1="280" y1="155" x2="720" y2="155" 
+        stroke="#00c2ff" 
+        stroke-width="2" 
+        opacity="0.6"/>
+
   <!-- Subtitle -->
-  <text x="600"
-        y="190"
+  <text x="500" y="185"
         text-anchor="middle"
-        font-size="22"
-        font-family="Segoe UI, sans-serif"
-        letter-spacing="2"
-        fill="rgba(220,245,255,0.85)">
+        font-size="18"
+        font-family="'Segoe UI', Tahoma, sans-serif"
+        fill="#4cc9f0"
+        letter-spacing="4"
+        font-weight="300">
     NEXT‑GENERATION EDGE SECURITY FRAMEWORK
   </text>
 
-  <!-- Bottom Accent -->
-  <line x1="420" y1="220" x2="780" y2="220"
-        stroke="#00e5ff"
-        stroke-width="2"
-        opacity="0.8"/>
+  <!-- Corner Tech Details -->
+  <circle cx="140" cy="90" r="3" fill="#00f2fe" opacity="0.8"/>
+  <circle cx="860" cy="200" r="3" fill="#00f2fe" opacity="0.8"/>
+  <rect x="135" y="208" width="20" height="2" fill="#00c2ff" opacity="0.5"/>
+  <rect x="845" y="82" width="20" height="2" fill="#00c2ff" opacity="0.5"/>
 
 </svg>
 
 </p>
+
+---
+
+<div align="center">
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-00c2ff.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0a0e27)](https://opensource.org/licenses/MIT)
+[![Version](https://img.shields.io/badge/Version-1.0.0-0070f3.svg?style=for-the-badge&logo=github&labelColor=0a0e27)](https://github.com/DyNATgIT/aegis-edge)
+[![Status](https://img.shields.io/badge/Status-Active-00f2fe.svg?style=for-the-badge&logo=statuspage&labelColor=0a0e27)](https://github.com/DyNATgIT/aegis-edge)
+
+</div>
 ## *Sovereign Medical Intelligence for the Zero-Internet Frontier*
 **Developed by Team Frontier Mercy**
 
