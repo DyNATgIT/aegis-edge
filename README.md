@@ -1,64 +1,111 @@
 <p align="center">
 
-<svg width="100%" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- Background Gradient -->
   <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f2027"/>
-      <stop offset="50%" stop-color="#203a43"/>
-      <stop offset="100%" stop-color="#2c5364"/>
+
+    <!-- Background -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="50%" stop-color="#0a1026"/>
+      <stop offset="100%" stop-color="#07131f"/>
     </linearGradient>
 
-    <!-- Glass Gradient -->
-    <linearGradient id="glassGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="rgba(255,255,255,0.35)"/>
-      <stop offset="100%" stop-color="rgba(255,255,255,0.05)"/>
-    </linearGradient>
-
-    <!-- Blur Effect -->
-    <filter id="blur">
-      <feGaussianBlur stdDeviation="15" />
+    <!-- Neon Glow -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
     </filter>
+
+    <!-- Glass -->
+    <linearGradient id="glass" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.18)"/>
+      <stop offset="100%" stop-color="rgba(255,255,255,0.04)"/>
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(0,255,255,0.08)" stroke-width="1"/>
+    </pattern>
+
   </defs>
 
   <!-- Background -->
-  <rect width="1000" height="260" fill="url(#bgGradient)" />
+  <rect width="1200" height="320" fill="url(#bg)"/>
 
-  <!-- Blurred Light Orbs -->
-  <circle cx="200" cy="80" r="100" fill="#00f2fe" filter="url(#blur)" opacity="0.4"/>
-  <circle cx="800" cy="180" r="120" fill="#4facfe" filter="url(#blur)" opacity="0.4"/>
+  <!-- Grid -->
+  <rect width="1200" height="320" fill="url(#grid)"/>
+
+  <!-- Neon Orbs -->
+  <circle cx="250" cy="90" r="120" fill="#00e5ff" opacity="0.22" filter="url(#glow)"/>
+  <circle cx="950" cy="220" r="140" fill="#0066ff" opacity="0.22" filter="url(#glow)"/>
+
+  <!-- Decorative Lines -->
+  <line x1="140" y1="70" x2="320" y2="70" stroke="#00f0ff" stroke-width="2" opacity="0.7"/>
+  <line x1="880" y1="250" x2="1060" y2="250" stroke="#00f0ff" stroke-width="2" opacity="0.7"/>
 
   <!-- Glass Panel -->
-  <rect x="150" y="60" rx="20" ry="20" width="700" height="140"
-        fill="url(#glassGradient)"
-        stroke="rgba(255,255,255,0.4)"
+  <rect x="140" y="60"
+        width="920"
+        height="200"
+        rx="28"
+        fill="url(#glass)"
+        stroke="rgba(0,255,255,0.35)"
         stroke-width="1.5"/>
 
-  <!-- Title -->
-  <text x="500" y="125"
+  <!-- Neon Border Glow -->
+  <rect x="140" y="60"
+        width="920"
+        height="200"
+        rx="28"
+        fill="none"
+        stroke="#00e5ff"
+        stroke-width="2"
+        opacity="0.7"
+        filter="url(#glow)"/>
+
+  <!-- Small Tech Dots -->
+  <circle cx="190" cy="100" r="4" fill="#00f0ff"/>
+  <circle cx="205" cy="100" r="4" fill="#00f0ff" opacity="0.7"/>
+  <circle cx="220" cy="100" r="4" fill="#00f0ff" opacity="0.4"/>
+
+  <!-- Main Title -->
+  <text x="600"
+        y="145"
         text-anchor="middle"
-        font-size="60"
-        font-family="Segoe UI, sans-serif"
-        fill="white"
-        font-weight="bold"
-        letter-spacing="3">
+        font-size="68"
+        font-family="Segoe UI, Orbitron, sans-serif"
+        font-weight="700"
+        letter-spacing="6"
+        fill="#dffcff"
+        filter="url(#glow)">
     AEGIS EDGE
   </text>
 
   <!-- Subtitle -->
-  <text x="500" y="160"
+  <text x="600"
+        y="190"
         text-anchor="middle"
-        font-size="20"
+        font-size="22"
         font-family="Segoe UI, sans-serif"
-        fill="rgba(255,255,255,0.85)">
-    Next‑Generation Edge Security Framework
+        letter-spacing="2"
+        fill="rgba(220,245,255,0.85)">
+    NEXT‑GENERATION EDGE SECURITY FRAMEWORK
   </text>
+
+  <!-- Bottom Accent -->
+  <line x1="420" y1="220" x2="780" y2="220"
+        stroke="#00e5ff"
+        stroke-width="2"
+        opacity="0.8"/>
 
 </svg>
 
 </p>
-### *Sovereign Medical Intelligence for the Zero-Internet Frontier*
+## *Sovereign Medical Intelligence for the Zero-Internet Frontier*
 **Developed by Team Frontier Mercy**
 
 <p align="center">
