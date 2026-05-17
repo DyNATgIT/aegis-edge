@@ -1,26 +1,26 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=300&color=7000ff&secondaryColor=00e5ff&text=AEGIS%20EDGE&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Sovereign%20Medical%20Intelligence%20for%20the%20Zero-Internet%20Frontier&descAlignY=58&descSize=20&descColor=ffffff"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:004e92,50:00c9ff,100:92fe9d&text=AEGIS%20EDGE&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Sovereign%20Medical%20Intelligence%20for%20the%20Zero-Internet%20Frontier&descAlignY=58&descSize=20&descColor=ffffff&animation=twinkling"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HACKATHON-GEMMA_4-8E2DE2?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DEVELOPED_BY-TEAM_FRONTIER_MERCY-00e5ff?style=for-the-badge&labelColor=111827"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MODEL-GEMMA_7B-white?style=flat-square&logo=googlecloud&logoColor=4285F4"/> 
-  <img src="https://img.shields.io/badge/TECH-EDGE_COMPUTE-white?style=flat-square&logo=microchip&logoColor=333"/>
-  <img src="https://img.shields.io/badge/PURPOSE-OFFLINE_TRIAGE-white?style=flat-square&logo=medicare&logoColor=FF4E50"/>
+  <img src="https://img.shields.io/badge/GEMMA_HACKATHON-SUBMISSION-004e92?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DEVELOPED_BY-TEAM_FRONTIER_MERCY-111827?style=for-the-badge&logo=target&logoColor=00c9ff"/>
 </p>
 
 <div align="center">
 
-### 💠 Project Manifesto
-> *"Sovereign Medical Intelligence for the Zero-Internet Frontier"*
->
-> **Developed by Team Frontier Mercy**
+### 💠 Mission Statement
+> **Sovereign Medical Intelligence for the Zero-Internet Frontier**
+> **Bringing LLM intelligence to the disconnected edge.**
+> *An offline-first medical triage engine powered by Gemma.*
 
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_CORE-GEMMA-00c9ff?style=flat-square&logo=google-cloud&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/TRIAGE-EMERGENCY_READY-white?style=flat-square&logo=medicare&logoColor=red"/>
+  <img src="https://img.shields.io/badge/CONNECTIVITY-ZERO_NET-white?style=flat-square&logo=wi-fi&logoColor=grey"/>
+</p>
 
 ---
 
