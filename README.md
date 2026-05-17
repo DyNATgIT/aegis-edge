@@ -1,19 +1,15 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:8E2DE2,25:E94057,50:FF4E50,75:00C9A7,100:007CF0&text=AEGIS%20EDGE&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI-POWERED%20MEDICAL%20EMERGENCY%20TRIAGE&descAlignY=58&descSize=22"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=280&color=0:090909,50:004e92,100:00e5ff&text=AEGIS%20EDGE&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=PRECISE%20TRIAGE%20%E2%80%A2%20INSTANT%20RESPONSE%20%E2%80%A2%20AI%20PROTOCOLS&descAlignY=62&descSize=18&descColor=a9d6ff"/>
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-LIVE-00C9A7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-TRIAGE-007CF0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EMERGENCY-READY-FF4E50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TRIAGE_PROTOCOL-v1.0-00e5ff?style=for-the-badge&logo=medicare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PLATFORM-SECURE_EDGE-004e92?style=for-the-badge&logo=shield&logoColor=white"/>
+  <img src="https://img.shields.io/badge/COMPLIANCE-HIPAA_READY-111827?style=for-the-badge&logo=target&logoColor=white"/>
 </p>
-<div align="center">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-00c2ff.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0a0e27)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/Version-1.0.0-0070f3.svg?style=for-the-badge&logo=github&labelColor=0a0e27)](https://github.com/DyNATgIT/aegis-edge)
-[![Status](https://img.shields.io/badge/Status-Active-00f2fe.svg?style=for-the-badge&logo=statuspage&labelColor=0a0e27)](https://github.com/DyNATgIT/aegis-edge)
-
-</div>
-## *Sovereign Medical Intelligence for the Zero-Internet Frontier*
+--- 
+*Sovereign Medical Intelligence for the Zero-Internet Frontier*
 **Developed by Team Frontier Mercy**
 
 <p align="center">
