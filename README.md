@@ -9,20 +9,12 @@
 
 <div align="center">
 
-### 💠 Mission Statement
-> **Sovereign Medical Intelligence for the Zero-Internet Frontier**
-> **Bringing LLM intelligence to the disconnected edge.**
-> *An offline-first medical triage engine powered by Gemma.*
 
-</div>
+**Sovereign Medical Intelligence for the Zero-Internet Frontier** 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI_CORE-GEMMA-00c9ff?style=flat-square&logo=google-cloud&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/TRIAGE-EMERGENCY_READY-white?style=flat-square&logo=medicare&logoColor=red"/>
-  <img src="https://img.shields.io/badge/CONNECTIVITY-ZERO_NET-white?style=flat-square&logo=wi-fi&logoColor=grey"/>
-</p>
+**Bringing LLM intelligence to the disconnected edge.**
 
----
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Model-Gemma%204%20E4B-blue?style=for-the-badge" alt="Gemma 4">
