@@ -1,7 +1,11 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,25:0A1026,50:07131F,75:003B73,100:00E5FF&text=AEGIS%20EDGE&fontSize=68&fontColor=DFFCFF&animation=fadeIn&fontAlignY=38&desc=NEXT-GENERATION%20EDGE%20SECURITY%20FRAMEWORK&descAlignY=58&descSize=20"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:8E2DE2,25:E94057,50:FF4E50,75:00C9A7,100:007CF0&text=AEGIS%20EDGE&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI-POWERED%20MEDICAL%20EMERGENCY%20TRIAGE&descAlignY=58&descSize=22"/>
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-LIVE-00C9A7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-TRIAGE-007CF0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EMERGENCY-READY-FF4E50?style=for-the-badge"/>
+</p>
 <div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-00c2ff.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0a0e27)](https://opensource.org/licenses/MIT)
