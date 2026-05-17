@@ -1,16 +1,25 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=280&color=0:090909,50:004e92,100:00e5ff&text=AEGIS%20EDGE&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=PRECISE%20TRIAGE%20%E2%80%A2%20INSTANT%20RESPONSE%20%E2%80%A2%20AI%20PROTOCOLS&descAlignY=62&descSize=18&descColor=a9d6ff"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=300&color=0b0e14&text=AEGIS%20EDGE&fontSize=90&fontColor=ffffff&fontAlignY=35&desc=Sovereign%20Medical%20Intelligence%20for%20the%20Zero-Internet%20Frontier&descAlignY=58&descSize=20&descColor=60e3ff&stroke=ffffff&strokeWidth=1">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TRIAGE_PROTOCOL-v1.0-00e5ff?style=for-the-badge&logo=medicare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PLATFORM-SECURE_EDGE-004e92?style=for-the-badge&logo=shield&logoColor=white"/>
-  <img src="https://img.shields.io/badge/COMPLIANCE-HIPAA_READY-111827?style=for-the-badge&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DEVELOPED_BY-TEAM_FRONTIER_MERCY-ffffff?style=for-the-badge&labelColor=004e92&color=00e5ff" />
 </p>
 
---- 
-*Sovereign Medical Intelligence for the Zero-Internet Frontier*
-**Developed by Team Frontier Mercy**
+<p align="center">
+  <br>
+  <i>"Sovereign Medical Intelligence for the Zero-Internet Frontier"</i>
+  <br>
+  <strong>Developed by Team Frontier Mercy</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MISSION-CRITICAL-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/OFFLINE-ENABLED-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/ENCRYPTION-ZERO_TRUST-blue?style=flat-square" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Model-Gemma%204%20E4B-blue?style=for-the-badge" alt="Gemma 4">
