@@ -1,32 +1,16 @@
-# <div style="
-      background: rgba(255,255,255,0.15);
-      backdrop-filter: blur(12px);
-      -webkit-backdrop-filter: blur(12px);
-      border-radius: 16px;
-      padding: 1.2rem 2rem;
-      margin-bottom: 1.5rem;
-      box-shadow: 0 8px 32px 0 rgba(31,38,135,0.37);
-      border: 1px solid rgba(255,255,255,0.18);
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      color: #fff;
-      text-align: center;
-      ">
-      🛡️ Aegis Edge
-    </div>
+<div align="center">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub release](https://img.shields.io/github/v/release/DyNATgIT/aegis-edge?color=blue)](https://github.com/DyNATgIT/aegis-edge/releases)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/DyNATgIT/aegis-edge/ci.yml?branch=main&label=CI)](https://github.com/DyNATgIT/aegis-edge/actions/workflows/ci.yml)
-[![Codecov](https://img.shields.io/codecov/c/github/DyNATgIT/aegis-edge?token=YOUR_TOKEN)](https://codecov.io/gh/DyNATgIT/aegis-edge)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?logo=kaggle)](https://www.kaggle.com/code/aayuwadhwani/aegis-edge-autonomous-field-medic)
+# <🛡️ AEGIS-EDGE>
 
-> **Aegis Edge** – A lightweight, high‑performance security edge platform for micro‑services, IoT gateways, and hybrid‑cloud workloads.  
-> Think of it as a “shield” that sits at the network perimeter, enforcing zero‑trust policies, mutual TLS, request throttling, and deep packet inspection – all with sub‑millisecond latency.
+![Aegis Edge Header](https://capsule-render.vercel.app/render?type=glass&text=AEGIS%20EDGE&fontSize=80&color=00f2fe&height=250&fontAlignY=40&desc=The%20Next%20Generation%20Security%20Layer&descSize=20&descAlignY=65&animation=twinkling)
 
----  
+---
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
+[![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg?style=for-the-badge&logo=github)](https://github.com/DyNATgIT/aegis-edge)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg?style=for-the-badge&logo=statuspage)](https://github.com/DyNATgIT/aegis-edge)
 
+</div>
 ### *Sovereign Medical Intelligence for the Zero-Internet Frontier*
 **Developed by Team Frontier Mercy**
 
