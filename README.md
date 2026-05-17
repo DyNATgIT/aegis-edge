@@ -2,19 +2,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:004e92,50:00c9ff,100:92fe9d&text=AEGIS%20EDGE&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Sovereign%20Medical%20Intelligence%20for%20the%20Zero-Internet%20Frontier&descAlignY=58&descSize=20&descColor=ffffff&animation=twinkling"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GEMMA_HACKATHON-SUBMISSION-004e92?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DEVELOPED_BY-TEAM_FRONTIER_MERCY-111827?style=for-the-badge&logo=target&logoColor=00c9ff"/>
-</p>
-
-<div align="center">
-
-
-**Sovereign Medical Intelligence for the Zero-Internet Frontier** 
-
-**Bringing LLM intelligence to the disconnected edge.**
-
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Model-Gemma%204%20E4B-blue?style=for-the-badge" alt="Gemma 4">
@@ -112,6 +99,12 @@ streamlit run ui/app.py
 ## 👥 THE TEAM: FRONTIER MERCY
 **Aayu Wadhwani & Keshav Bhatnagar**  
 *Engineering the future of edge-native medical intelligence.*
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GEMMA_HACKATHON-SUBMISSION-004e92?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DEVELOPED_BY-TEAM_FRONTIER_MERCY-111827?style=for-the-badge&logo=target&logoColor=00c9ff"/>
+</p>
+
 
 👉 **[Kaggle Research Notebook](https://www.kaggle.com/code/aayuwadhwani/aegis-edge-autonomous-field-medic)** | **[Project Repository](https://github.com/DyNATgIT/aegis-edge)**
 ```
