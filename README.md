@@ -1,5 +1,4 @@
-
- <div style="
+# <div style="
       background: rgba(255,255,255,0.15);
       backdrop-filter: blur(12px);
       -webkit-backdrop-filter: blur(12px);
@@ -14,6 +13,20 @@
       ">
       🛡️ Aegis Edge
     </div>
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub release](https://img.shields.io/github/v/release/DyNATgIT/aegis-edge?color=blue)](https://github.com/DyNATgIT/aegis-edge/releases)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/DyNATgIT/aegis-edge/ci.yml?branch=main&label=CI)](https://github.com/DyNATgIT/aegis-edge/actions/workflows/ci.yml)
+[![Codecov](https://img.shields.io/codecov/c/github/DyNATgIT/aegis-edge?token=YOUR_TOKEN)](https://codecov.io/gh/DyNATgIT/aegis-edge)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?logo=kaggle)](https://www.kaggle.com/code/aayuwadhwani/aegis-edge-autonomous-field-medic)
+
+> **Aegis Edge** – A lightweight, high‑performance security edge platform for micro‑services, IoT gateways, and hybrid‑cloud workloads.  
+> Think of it as a “shield” that sits at the network perimeter, enforcing zero‑trust policies, mutual TLS, request throttling, and deep packet inspection – all with sub‑millisecond latency.
+
+---  
+
+
 ### *Sovereign Medical Intelligence for the Zero-Internet Frontier*
 **Developed by Team Frontier Mercy**
 
