@@ -97,7 +97,7 @@ streamlit run ui/app.py
 ---
 
 ## 👥 THE TEAM: FRONTIER MERCY
-**Aayu Wadhwani & Keshav Bhatnagar**  
+**Aayu Wadhwani & Keshav Bhatnager**  
 *Engineering the future of edge-native medical intelligence.*
 
 <p align="center">
