@@ -1,23 +1,26 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=300&color=0b0e14&text=AEGIS%20EDGE&fontSize=90&fontColor=ffffff&fontAlignY=35&desc=Sovereign%20Medical%20Intelligence%20for%20the%20Zero-Internet%20Frontier&descAlignY=58&descSize=20&descColor=60e3ff&stroke=ffffff&strokeWidth=1">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=300&color=7000ff&secondaryColor=00e5ff&text=AEGIS%20EDGE&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Sovereign%20Medical%20Intelligence%20for%20the%20Zero-Internet%20Frontier&descAlignY=58&descSize=20&descColor=ffffff"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DEVELOPED_BY-TEAM_FRONTIER_MERCY-ffffff?style=for-the-badge&labelColor=004e92&color=00e5ff" />
+  <img src="https://img.shields.io/badge/HACKATHON-GEMMA_4-8E2DE2?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DEVELOPED_BY-TEAM_FRONTIER_MERCY-00e5ff?style=for-the-badge&labelColor=111827"/>
 </p>
 
 <p align="center">
-  <br>
-  <i>"Sovereign Medical Intelligence for the Zero-Internet Frontier"</i>
-  <br>
-  <strong>Developed by Team Frontier Mercy</strong>
+  <img src="https://img.shields.io/badge/MODEL-GEMMA_7B-white?style=flat-square&logo=googlecloud&logoColor=4285F4"/> 
+  <img src="https://img.shields.io/badge/TECH-EDGE_COMPUTE-white?style=flat-square&logo=microchip&logoColor=333"/>
+  <img src="https://img.shields.io/badge/PURPOSE-OFFLINE_TRIAGE-white?style=flat-square&logo=medicare&logoColor=FF4E50"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MISSION-CRITICAL-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/OFFLINE-ENABLED-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/ENCRYPTION-ZERO_TRUST-blue?style=flat-square" />
-</p>
+<div align="center">
+
+### 💠 Project Manifesto
+> *"Sovereign Medical Intelligence for the Zero-Internet Frontier"*
+>
+> **Developed by Team Frontier Mercy**
+
+</div>
 
 ---
 
