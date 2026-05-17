@@ -1,5 +1,19 @@
 
-# 🛡️ AEGIS-EDGE
+# <div style="
+      background: rgba(255,255,255,0.15);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border-radius: 16px;
+      padding: 1.2rem 2rem;
+      margin-bottom: 1.5rem;
+      box-shadow: 0 8px 32px 0 rgba(31,38,135,0.37);
+      border: 1px solid rgba(255,255,255,0.18);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: #fff;
+      text-align: center;
+      ">
+      🛡️ Aegis Edge
+    </div>
 ### *Sovereign Medical Intelligence for the Zero-Internet Frontier*
 **Developed by Team Frontier Mercy**
 
