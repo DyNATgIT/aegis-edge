@@ -1,16 +1,63 @@
-<div align="center">
+<p align="center">
 
-# <🛡️ AEGIS-EDGE>
+<svg width="100%" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
 
-![Aegis Edge Header](https://capsule-render.vercel.app/render?type=glass&text=AEGIS%20EDGE&fontSize=80&color=00f2fe&height=250&fontAlignY=40&desc=The%20Next%20Generation%20Security%20Layer&descSize=20&descAlignY=65&animation=twinkling)
+  <!-- Background Gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
 
----
+    <!-- Glass Gradient -->
+    <linearGradient id="glassGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.35)"/>
+      <stop offset="100%" stop-color="rgba(255,255,255,0.05)"/>
+    </linearGradient>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg?style=for-the-badge&logo=github)](https://github.com/DyNATgIT/aegis-edge)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg?style=for-the-badge&logo=statuspage)](https://github.com/DyNATgIT/aegis-edge)
+    <!-- Blur Effect -->
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="15" />
+    </filter>
+  </defs>
 
-</div>
+  <!-- Background -->
+  <rect width="1000" height="260" fill="url(#bgGradient)" />
+
+  <!-- Blurred Light Orbs -->
+  <circle cx="200" cy="80" r="100" fill="#00f2fe" filter="url(#blur)" opacity="0.4"/>
+  <circle cx="800" cy="180" r="120" fill="#4facfe" filter="url(#blur)" opacity="0.4"/>
+
+  <!-- Glass Panel -->
+  <rect x="150" y="60" rx="20" ry="20" width="700" height="140"
+        fill="url(#glassGradient)"
+        stroke="rgba(255,255,255,0.4)"
+        stroke-width="1.5"/>
+
+  <!-- Title -->
+  <text x="500" y="125"
+        text-anchor="middle"
+        font-size="60"
+        font-family="Segoe UI, sans-serif"
+        fill="white"
+        font-weight="bold"
+        letter-spacing="3">
+    AEGIS EDGE
+  </text>
+
+  <!-- Subtitle -->
+  <text x="500" y="160"
+        text-anchor="middle"
+        font-size="20"
+        font-family="Segoe UI, sans-serif"
+        fill="rgba(255,255,255,0.85)">
+    Next‑Generation Edge Security Framework
+  </text>
+
+</svg>
+
+</p>
 ### *Sovereign Medical Intelligence for the Zero-Internet Frontier*
 **Developed by Team Frontier Mercy**
 
